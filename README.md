@@ -1,7 +1,10 @@
 # Akshya-Sahu_Pharma-Techie
 My professional repository
 
-### Hi there   # About me
+### Hi All ✋   
+
+
+# About me
 **I am tech enthusiasist**😆
 
 
